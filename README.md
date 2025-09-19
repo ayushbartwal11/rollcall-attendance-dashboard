@@ -3,7 +3,7 @@
 RollCall is a modern **web-based attendance management system** designed for **teachers, students, and parents**.  
 It provides an interactive, role-based dashboard to **track, visualize, and manage attendance** with simple controls and clear analytics.
 
-🌐 **Live Demo (GitHub Pages):** [https://<ayushbartwal11>.github.io/rollcall-attendance-dashboard](https://<ayushbartwal11>.github.io/rollcall-attendance-dashboard)
+🌐 **Live Demo (GitHub Pages):**  https://ayushbartwal11.github.io/rollcall-attendance-dashboard/
 
 ---
 
